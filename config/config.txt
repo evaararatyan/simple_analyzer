@@ -1,0 +1,3 @@
+interval=2
+	sequence_length=18
+
